@@ -1,0 +1,16 @@
+:root {
+  --purple: #dc77f3;
+}
+
+.sedan-regular {
+  font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.color {
+  color: var(--purple);
+}
+.bgpurple {
+  background-color: var(--purple);
+}
